@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/housekeeping_reactjs/static/css/main.1cd6d5d4.css",
+    "main.js": "/housekeeping_reactjs/static/js/main.921596d8.js",
+    "index.html": "/housekeeping_reactjs/index.html",
+    "main.1cd6d5d4.css.map": "/housekeeping_reactjs/static/css/main.1cd6d5d4.css.map",
+    "main.921596d8.js.map": "/housekeeping_reactjs/static/js/main.921596d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cd6d5d4.css",
+    "static/js/main.921596d8.js"
+  ]
+}
