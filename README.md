@@ -1,6 +1,6 @@
 # Shoes Shop
 가계부 작성 앱
-https://github.com/ehdrn3020/housekeeping_reactjs
+https://ehdrn3020.github.io/housekeeping_reactjs/
 - use react.js
 - 비용 리스트 추가
 - 날짜 필터링
